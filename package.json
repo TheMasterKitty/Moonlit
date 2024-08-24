@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colorts": "^0.1.63",
+    "discord.js": "^14.15.3",
+    "pidusage": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/pidusage": "^2.0.5"
+  },
+  "name": "moonlit",
+  "version": "1.0.0",
+  "description": "Custom CLI-based panel for running child processes easily using TS",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMasterKitty/Moonlit.git"
+  },
+  "author": "TheMasterKitty",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/TheMasterKitty/Moonlit/issues"
+  },
+  "homepage": "https://github.com/TheMasterKitty/Moonlit#readme"
+}
