@@ -6,7 +6,7 @@
     "pidusage": "^3.0.2"
   },
   "devDependencies": {
-    "@types/node": "^22.5.4",
+    "@types/node": "^22.5.5",
     "@types/pidusage": "^2.0.5"
   },
   "name": "moonlit",
