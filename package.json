@@ -3,7 +3,7 @@
     "axios": "^1.7.9",
     "colorts": "^0.1.63",
     "discord.js": "^14.17.3",
-    "pidusage": "^3.0.2"
+    "pidusage": "^4.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.7",
